@@ -4,7 +4,7 @@
 
 ## 📊 Visualização do Dashboard Final
 
-![Dashboard de Vendas de Assinaturas Xbox](imagens/dashboard_assinaturas.png)
+![Dashboard de Vendas de Assinaturas Xbox](Imagens/dashboard_xbox.png)
 
 ## 1. Objetivo do Projeto
 
